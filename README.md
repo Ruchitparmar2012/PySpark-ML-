@@ -1,3 +1,5 @@
+![image](https://www.linkpicture.com/q/istockphoto-1390716712-170667a.jpg)
+
 # PySpark and Machine Learning Project ✨
 
 The PySpark and Machine Learning project focuses on analyzing a dataset using PySpark, a fast and distributed data processing framework. 
